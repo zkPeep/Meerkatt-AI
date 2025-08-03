@@ -1,4 +1,6 @@
 # Meerkatt-AI
 Submission for Onchain Summer Hackathon 2025
 
-
+<div align="center">
+  <img src="https://github.com/zkPeep/Meerkatt-AI/blob/main//Meerkatt_Ai.png?raw=true" width="60%" alt="Meerkatt AI" />
+</div>
